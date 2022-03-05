@@ -8,12 +8,23 @@ body {
 
 }
 
+#cabecera{
+    background: #33a;;
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+
+
+
+
 
 #container
 {
     width: 70%;
     padding: 1em;
-    text-align: left;ç
+    text-align: left;
     border: 1px solid #ddd;
     margin: 0 auto;
 }
@@ -21,3 +32,4 @@ body {
 #container h1{
     font-size: 30px;
 }
+
