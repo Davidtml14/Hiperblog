@@ -3,5 +3,4 @@ ola
 Mañana nos enfocaremos en su vida laboral.
 
 Main 1
-
-Main 2
+main 2
