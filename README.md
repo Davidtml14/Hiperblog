@@ -12,5 +12,10 @@ Blog random para el curso de git y github de platzi
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
 * Juan Trujillo Creditos-Platzi
+<<<<<<< HEAD
+=======
+*Incluye ejemplos en linux-mac-windows
+*Disponible para todas las edades.
+>>>>>>> readme-mejorado
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
